@@ -8,3 +8,4 @@ BDD Members 26.01.2018
 | [@strelov1](https://t.me/strelov1) | [strelov1](https://github.com/strelov1) | ПХПист  | JS, Go, Python, NodeJS, Web | - |
 | [@avkosme](https://github.com/avkosme) | [iAndrew](https://github.com/iAndrew) | Сильно интересно, надеюсь дальше будет так же | JS, TS, Python, Django, NodeJS, React, PostgreSQL, MongoDB, Php, Bash | - |
 | [@jumper423](https://t.me/jumper423) | [jumper423](https://github.com/jumper423) | Профессионально занимаюсь программированием более 6 лет. Без труда решаю не стандартные задачи. Отлично умею составлять архитектуру как приложения так и БД. | PHP (Phalcon, Yii2, Symfony, Laravel), JS (Node, Angular), Python, Golang, PostgreSQL, Mongo, Redis, RabbitMQ, HighLoad | - |
+| [@johnnykramer](https://t.me/johnnykramer) | [johnnykramer](https://github.com/johnnykramer) | Bearded full-stack javascript developer | JS, NodeJS, Meteor, BlazeJS, MongoDB, Redis, GhostJS, SSG (Hugo, Jekyll, Hexo) | - |
